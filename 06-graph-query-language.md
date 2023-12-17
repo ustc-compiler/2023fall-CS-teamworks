@@ -7,7 +7,7 @@
 | 罗胤玻  |  |  |
 | 胡天羽  |  |      |
 
-[link](https://github.com/odeinjul/2023fall-CS-teamworks)
+[2023fall-CS-teamworks](https://github.com/odeinjul/2023fall-CS-teamworks)
 
 ### Content
 
