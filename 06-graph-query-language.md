@@ -4,7 +4,7 @@
 | Name | Student ID | Github ID  |
 | ---- | ---------- | ---------- |
 | 吴书让  | PB21000179 |[odeinjul](https://github.com/odeinjul)    |
-| 罗胤玻  |  |  |
+| 罗胤玻  | PB21111627 | [Origami-B](https://github.com/Origami-B) |
 | 胡天羽  |  |      |
 
 [2023fall-CS-teamworks](https://github.com/odeinjul/2023fall-CS-teamworks)
