@@ -6,29 +6,24 @@
 
 ### 摘要
 
-本课程项目旨在基于LLVM，结合课堂所学的知识，并查阅学习相关文献及算法，在若干方向对后端代码生成进行优化
+本课程项目旨在基于LLVM，结合课堂所学的知识，并查阅学习相关文献及算法，在若干方向对LLVM中间代码进行优化
 
 ### 相关资源
 
-[图着色算法](https://www.sciencedirect.com/science/article/abs/pii/B9781483231877500155)
-
-[基于图着色的寄存器分配](https://www.sciencedirect.com/science/article/abs/pii/0096055181900485)
-
-[基于SSA的寄存器分配](https://pp.ipd.kit.edu/uploads/publikationen/stemmergrabow21masterarbeit.pdf)
-
-[支配树的增量计算](https://dl.acm.org/doi/abs/10.1145/202530.202531)
+[支配树算法](https://www.cs.tufts.edu/comp/150FP/archive/keith-cooper/dom14.pdf)
 
 ### 研究内容
 
 目前可能考虑的优化方法有：
 
-- 1. 通过支配树完成支配边界的计算，从而完成SSA的构造以及循环不变量提升
-- 2. 使用图着色及线性扫描，或其他启发式方法，优化寄存器分配
-- 3. 利用找环算法寻找循环，并优化循环中的寄存器分配
+- 1. 消除中间代码中的store，load，alloca指令，指令全部使用寄存器
+- 2. 进行活跃变量分析、死代码删除等，避免执行多余的指令
+- 3. 采用复写传播、强度削弱、循环表达式外提等更多优化方式进行进一步优化
 
 ### 研究目标
 
-暂定在PW6的SysYF中间代码生成的基础上，采用上述优化方法进行后端代码生成的优化
+暂定在PW6的SysYF中间代码生成的基础上，采用上述优化方法进行对LLVM IR的优化。
+为方便实现，可能在去年代码框架的基础上进行修改（应该将裸指针改为智能指针即可）。
 
 ### 组员分工
 
