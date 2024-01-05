@@ -8,3 +8,7 @@ For example, if team 0 decides to work on a project named Bla Bla, then they sho
 
 **Please refer to**
 - [2017fall-student-teamworks](https://github.com/ustc-compiler/2017fall-student-teamworks)
+- [2020fall-student-teamworks](https://gitee.com/s4plus/llvm-ustc-proj/blob/master/log/202012.md)
+- [2022fall-SysYFCodeGenOpt](https://cscourse.ustc.edu.cn/vdir/Gitlab/seijiang/codegenopt-lab)
+- [bilibili video](https://space.bilibili.com/273391839/channel/series)
+
