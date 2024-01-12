@@ -1,6 +1,6 @@
 # 量子编程语言及其特性语义分析
-##仓库：[link](https://github.com/yyh030806/2023Fall-CS-teamworks)
-##组员：
+## 仓库：[link](https://github.com/yyh030806/2023Fall-CS-teamworks)
+## 组员：
 
 | 姓名   | 学号       | Github id                                  |
 | ------ | ---------- | ------------------------------------------ |
