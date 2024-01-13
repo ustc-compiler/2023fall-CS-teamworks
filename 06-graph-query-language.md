@@ -9,6 +9,9 @@
 
 [2023fall-CS-teamworks](https://github.com/odeinjul/2023fall-CS-teamworks)
 
+### Repo 
+[Graph Query Language](https://github.com/odeinjul/gql)
+
 ### Content
 
 本项目旨在分析图数据处理、查询语言的相关理论和技术实现。通过审视多种常用的图数据处理引擎及其对应图查询语言，我们将归纳总结各类引擎及语言的不足和优势以及特点所在，帮助我们更深入地理解图数据处理查询的机理。
