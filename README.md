@@ -63,7 +63,7 @@ For example, if team 0 decides to work on a project named Bla Bla, then they sho
 | 组号 | 仓库地址                                                  | 选题                                                   | 汇报                 |
 | ---- | --------------------------------------------------------- | ------------------------------------------------------ | -------------------- |
 | G1   | https://github.com/liml0324/SysYF_optimize                | 基于LLVM的SysYF进阶优化                                | [ppt](./ppt/G1.pptx) |
-| G2   | https://github.com/W34155552/compiler-final-lab           | 量子程序编译效果预测                                   |                      |
+| G2   | https://github.com/W34155552/compiler-final-lab           | 量子程序编译效果预测                                   | [ppt](./ppt/G2.pptx) |
 | G3   | https://git.lug.ustc.edu.cn/compiler-g3/sysyf-codegen-opt | LLVM 上的程序分析与优化                                | [ppt](./ppt/G3.pptx) |
 | G4   | https://github.com/GreenDay03/2023fall-CS-teamworks       | Rust语言中宏的使用及其实现机制                         | [ppt](./ppt/G4.pptx) |
 | G5   | https://github.com/Starrybook/ccscaner                    | An Empirical Study of Language features usage in C/C++ | [ppt](./ppt/G5.pptx) |
