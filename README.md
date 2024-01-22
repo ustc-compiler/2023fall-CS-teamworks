@@ -60,13 +60,14 @@ For example, if team 0 decides to work on a project named Bla Bla, then they sho
 
 ## 各组仓库链接
 
-| 组号 | 仓库地址                                                  | 选题                                                   | 汇报 |
-| ---- | --------------------------------------------------------- | ------------------------------------------------------ | ---- |
-| G1   | https://github.com/liml0324/SysYF_optimize                | 基于LLVM的SysYF进阶优化                                |      |
-| G2   | https://github.com/W34155552/compiler-final-lab           | 量子程序编译效果预测                                   |      |
-| G3   | https://git.lug.ustc.edu.cn/compiler-g3/sysyf-codegen-opt | LLVM 上的程序分析与优化                                |      |
-| G4   | https://github.com/GreenDay03/2023fall-CS-teamworks       | Rust语言中宏的使用及其实现机制                         |      |
-| G5   | https://github.com/Starrybook/ccscaner                    | An Empirical Study of Language features usage in C/C++ |      |
-| G6   | https://github.com/odeinjul/gql                           | 图查询语言及其语义分析                                 |      |
-| G7   | https://github.com/yyh030806/2023-fall-QUA                | 量子编程语言及其特性语义分析                           |      |
-| G8   | https://github.com/stflrs/2023fall-CS-teamworks           | 多级中间表示及其拓展                                   |      |
+| 组号 | 仓库地址                                                  | 选题                                                   | 汇报                 |
+| ---- | --------------------------------------------------------- | ------------------------------------------------------ | -------------------- |
+| G1   | https://github.com/liml0324/SysYF_optimize                | 基于LLVM的SysYF进阶优化                                | [ppt](./ppt/G1.pptx) |
+| G2   | https://github.com/W34155552/compiler-final-lab           | 量子程序编译效果预测                                   |                      |
+| G3   | https://git.lug.ustc.edu.cn/compiler-g3/sysyf-codegen-opt | LLVM 上的程序分析与优化                                | [ppt](./ppt/G3.pptx) |
+| G4   | https://github.com/GreenDay03/2023fall-CS-teamworks       | Rust语言中宏的使用及其实现机制                         | [ppt](./ppt/G4.pptx) |
+| G5   | https://github.com/Starrybook/ccscaner                    | An Empirical Study of Language features usage in C/C++ | [ppt](./ppt/G5.pptx) |
+| G6   | https://github.com/odeinjul/gql                           | 图查询语言及其语义分析                                 |                      |
+| G7   | https://github.com/yyh030806/2023-fall-QUA                | 量子编程语言及其特性语义分析                           | [ppt](./ppt/G7.pptx) |
+| G8   | https://github.com/stflrs/2023fall-CS-teamworks           | 多级中间表示及其拓展                                   | [ppt](./ppt/G8.pptx) |
+
