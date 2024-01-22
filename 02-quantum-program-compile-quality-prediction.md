@@ -1,5 +1,7 @@
 # 量子程序编译效果预测
-## 仓库：暂无
+
+[仓库链接](https://github.com/W34155552/compiler-final-lab)
+
 ## 组员：
 
 | 姓名   | 学号       | Github id                                  |
