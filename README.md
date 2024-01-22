@@ -67,7 +67,7 @@ For example, if team 0 decides to work on a project named Bla Bla, then they sho
 | G3   | https://git.lug.ustc.edu.cn/compiler-g3/sysyf-codegen-opt | LLVM 上的程序分析与优化                                | [ppt](./ppt/G3.pptx) |
 | G4   | https://github.com/GreenDay03/2023fall-CS-teamworks       | Rust语言中宏的使用及其实现机制                         | [ppt](./ppt/G4.pptx) |
 | G5   | https://github.com/Starrybook/ccscaner                    | An Empirical Study of Language features usage in C/C++ | [ppt](./ppt/G5.pptx) |
-| G6   | https://github.com/odeinjul/gql                           | 图查询语言及其语义分析                                 |                      |
+| G6   | https://github.com/odeinjul/gql                           | 图查询语言及其语义分析                                 | [ppt](./ppt/G6.pptx) |
 | G7   | https://github.com/yyh030806/2023-fall-QUA                | 量子编程语言及其特性语义分析                           | [ppt](./ppt/G7.pptx) |
 | G8   | https://github.com/stflrs/2023fall-CS-teamworks           | 多级中间表示及其拓展                                   | [ppt](./ppt/G8.pptx) |
 
